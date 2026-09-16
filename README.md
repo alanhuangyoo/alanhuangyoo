@@ -7,7 +7,7 @@ $ echo $STACK
 Python · Rust · PyTorch · DeepSpeed · verl · SGLang
 
 $ gh search prs --author @me --merged --upstream | wc -l
-36 merged upstream PRs · 11 repos
+37 merged upstream PRs · 11 repos
 ```
 
 <br />
@@ -20,7 +20,7 @@ $ gh search prs --author @me --merged --upstream | wc -l
 ### Open Source
 
 - **[deepspeedai/DeepSpeed](https://github.com/deepspeedai/DeepSpeed)** — Muon optimizer under ZeRO, Ulysses sequence parallelism, AutoTP · [15 merged](https://github.com/deepspeedai/DeepSpeed/pulls?q=is%3Apr+is%3Amerged+author%3Aalanhuangyoo)
-- **[bytedance/deer-flow](https://github.com/bytedance/deer-flow)** — Goal continuations and token budgets, streamed tool calls, subagent failures · [7 merged](https://github.com/bytedance/deer-flow/pulls?q=is%3Apr+is%3Amerged+author%3Aalanhuangyoo)
+- **[bytedance/deer-flow](https://github.com/bytedance/deer-flow)** — Goal continuations and token budgets, streamed tool calls, subagent failures · [8 merged](https://github.com/bytedance/deer-flow/pulls?q=is%3Apr+is%3Amerged+author%3Aalanhuangyoo)
 - **[pytorch/torchtitan](https://github.com/pytorch/torchtitan)** — CPU offload for VLM encoders, Flux FLOPs estimate · [3 merged](https://github.com/pytorch/torchtitan/pulls?q=is%3Apr+is%3Amerged+author%3Aalanhuangyoo)
 - **[deepset-ai/haystack](https://github.com/deepset-ai/haystack)** — Component serialization, SuperComponent async outputs · [2 merged](https://github.com/deepset-ai/haystack/pulls?q=is%3Apr+is%3Amerged+author%3Aalanhuangyoo)
 - **[volcengine/OpenViking](https://github.com/volcengine/OpenViking)** — MCP search arguments, memory field escaping · [3 merged](https://github.com/volcengine/OpenViking/pulls?q=is%3Apr+is%3Amerged+author%3Aalanhuangyoo)
