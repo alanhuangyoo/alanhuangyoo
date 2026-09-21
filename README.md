@@ -14,7 +14,7 @@ $ gh search prs --author @me --merged --upstream | wc -l
 
 ### Featured Work
 
-- **[alanhuangyoo/crux](https://github.com/alanhuangyoo/crux)** — A terminal agent scaffold for Terminal-Bench: putting a current-generation DeepSeek model on the official leaderboard, cheaply. ★78
+- **[alanhuangyoo/crux](https://github.com/alanhuangyoo/crux)** — A terminal agent scaffold for Terminal-Bench: putting a current-generation DeepSeek model on the official leaderboard, cheaply. ★85
 - **[alanhuangyoo/wecode](https://github.com/alanhuangyoo/wecode)** — A lightweight, fast coding-agent CLI in Rust. One binary, any model, with subagents, LSP and MCP. ★2
 
 ### Open Source
