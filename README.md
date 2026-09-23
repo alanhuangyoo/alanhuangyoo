@@ -7,14 +7,14 @@ $ echo $STACK
 Python · Rust · PyTorch · DeepSpeed · verl · SGLang
 
 $ gh search prs --author @me --merged --upstream | wc -l
-47 merged upstream PRs · 11 repos
+48 merged upstream PRs · 11 repos
 ```
 
 <br />
 
 ### Featured Work
 
-- **[alanhuangyoo/crux](https://github.com/alanhuangyoo/crux)** — A terminal agent scaffold for Terminal-Bench: putting a current-generation DeepSeek model on the official leaderboard, cheaply. ★104
+- **[alanhuangyoo/crux](https://github.com/alanhuangyoo/crux)** — A terminal agent scaffold for Terminal-Bench: putting a current-generation DeepSeek model on the official leaderboard, cheaply. ★106
 - **[alanhuangyoo/wecode](https://github.com/alanhuangyoo/wecode)** — A lightweight, fast coding-agent CLI in Rust. One binary, any model, with subagents, LSP and MCP. ★3
 
 ### Open Source
